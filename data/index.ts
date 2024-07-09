@@ -136,8 +136,8 @@ export const testimonials = [
   {
     quote:
       "Alhamdulillah, working with Barakat is an absolute pleasure. He is currently designing and building a comprehensive website for our learning centre, greatly enhancing our online presence. The site is becoming user-friendly and beautifully designed, truly reflecting our mission. JazakAllah khair!",
-    name: "Khalid",
-    title: "Director of Ummah Institute",
+    name: "Abdullah",
+    title: "Director of a Tuition Company",
   },
   {
     quote:
