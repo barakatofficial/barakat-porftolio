@@ -135,20 +135,20 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Alhamdulillah, working with Barakat was an absolute pleasure. He designed and built a comprehensive website for our learning centre, which has greatly enhanced our online presence. The site is user-friendly and beautifully designed, truly reflecting our mission. JazakAllah khair!",
-    name: "Abdullah",
+      "Alhamdulillah, working with Barakat is an absolute pleasure. He is currently designing and building a comprehensive website for our learning centre, greatly enhancing our online presence. The site is becoming user-friendly and beautifully designed, truly reflecting our mission. JazakAllah khair!",
+    name: "Khalid",
     title: "Director of Ummah Institute",
   },
   {
     quote:
       "I highly recommend Barakat for his exceptional work. He designed and developed our e-commerce website using Shopify, making it easy for our customers to navigate and shop. The attention to detail and understanding of our needs were impressive. Thank you for your hard work!",
-    name: "Kamal Mohammed",
+    name: "Mohammad Fahad",
     title: "CEO of a Thobe Business",
   },
   {
     quote:
       "The site is visually appealing and very user-friendly, which has helped us attract more customers. The process was smooth and efficient, and the final product exceeded our expectations. We are grateful for your hard work and dedication.",
-    name: "Yusuf",
+    name: "Yusuf Omarzai",
     title: "CEO of a Car Rental Company",
   },
 ];
